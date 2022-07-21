@@ -19,7 +19,7 @@ public class Customer {
         int i = 100;
 
         
-        System.out.println("push test1111ccccc");
+        System.out.println("push");
 
         System.out.println("hot-fix");
         System.out.println("ccccccc");
